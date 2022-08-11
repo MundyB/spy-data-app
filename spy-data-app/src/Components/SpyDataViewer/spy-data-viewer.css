@@ -1,0 +1,8 @@
+.timeframe-select{
+    float: right;
+    margin-right: 5px;
+}
+
+.timeframe-select label{
+    margin-right: 2px;
+}
